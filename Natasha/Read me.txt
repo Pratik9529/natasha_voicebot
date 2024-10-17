@@ -1,0 +1,63 @@
+There are some commands for Natasha are given Below 
+natasha open facebook
+
+natasha open twitter
+
+natasha open whatsapp
+
+natasha i want to read c
+
+natasha i want to watch news in marathi
+
+natasha i want to watch news in hindi
+
+natasha i want to watch news in english
+
+natasha i want to read newspaper in marathi
+
+natasha i want to read newspaper in english
+
+natasha i want to read newspaper in hindi
+
+natasha i want to read computer fundamentals
+
+natasha i want to read digital electronics
+
+natasha i want to read c programing
+
+natasha i want to read microprocessor
+
+natasha i want to read datastructure
+
+natasha i want to read operating system
+
+natasha i want to read unix
+
+natasha i want to read pc maintanance
+
+natasha i want to read dbms
+
+natasha i want to read software engineering
+
+natasha i want to read fedora
+
+natasha i want to read networking
+
+natasha i want to read web fundamentals
+
+natasha web fundamentals
+
+natasha i want to plan my trip
+
+natasha book my bus
+
+natasha I want to read tatyache blog
+
+natasha visit osmanabad
+
+
+Also we can upload new Command by using following command :-
+   Natasha New Command is there
+You can Run this project with follow link:- 
+ainatasha.ml
+
